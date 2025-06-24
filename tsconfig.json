@@ -17,5 +17,5 @@
     "resolveJsonModule": true,
     "types": ["node"]
   },
-  "include": ["tests", "pages", "fixtures"]
+  "include": ["tests", "pages", "fixtures", "playwright.config.ts", "eslint.config.js"]
 }
